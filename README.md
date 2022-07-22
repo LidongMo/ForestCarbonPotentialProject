@@ -1,12 +1,12 @@
-## ForestCarbonPotentialProject
+### ForestCarbonPotentialProject
 
 This is the readMe text file for the forest biomass paper
 Code will be arranged by steps with corresponding code.
 
 
-STEP 1: Binomial correction of the species from GFBI and the global wood density database
+# STEP 1: Binomial correction of the species from GFBI and the global wood density database
      In this step we need to mention that the BIOMSS R package was updated since we started our project in 2018. The changed the binomial correction approach which result in the wood density of 
-STEP 2: Biome level allometric equation for the non-tropical biomes
+# STEP 2: Biome level allometric equation for the non-tropical biomes
     In this step we downloaded the allometric data from the GlobAllomeTree database, then applied the data cleaning and pseudo allometric approach to generate the biome level allometric equations for the extra-tropical biomes.
 
 STEP 3: Biomass calculation for each individual from GFBi database
