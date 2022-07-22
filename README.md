@@ -1,4 +1,4 @@
-# ForestCarbonPotentialProject
+## ForestCarbonPotentialProject
 
 This is the readMe text file for the forest biomass paper
 Code will be arranged by steps with corresponding code.
