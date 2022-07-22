@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = train_data$y_value ~ train_data$x_value)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.23027 -0.15517 -0.03351  0.21511  0.21576 
+
+Coefficients:
+                   Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        -2.40164    0.11780  -20.39   <2e-16 ***
+train_data$x_value  2.34941    0.04399   53.41   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1693 on 63 degrees of freedom
+Multiple R-squared:  0.9784,	Adjusted R-squared:  0.978 
+F-statistic:  2853 on 1 and 63 DF,  p-value: < 2.2e-16
+

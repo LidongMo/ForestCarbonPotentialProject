@@ -1,0 +1,468 @@
+"","Var1","Freq"
+"1","Above ground",22
+"2","above ground biomass",64
+"3","Above-ground biomass",688
+"4","Above-ground weight",5
+"5","aboveground",2
+"6","Aboveground biomass",152
+"7","aboveground D<2cm",0
+"8","aboveground D>2cm",0
+"9","Aboveground+Stilt root biomass",1
+"10","all",13
+"11","bark",34
+"12","Bark",61
+"13","Bark biomass",7
+"14","Bark dry biomass",1
+"15","Bark dry weight",30
+"16","Bark fresh biomass",1
+"17","Bark fresh weight",19
+"18","Bark ovendry weight",7
+"19","Bark weight",12
+"20","Bark,Branches and Leaves",2
+"21","Bark,Branches,Leaves and Roots",4
+"22","Bark,Branches,Leaves,Roots,Stump and Trunk",117
+"23","Bark,Branches,Leaves,Roots,Stump,Trunk andTwigs",7
+"24","Bark,Branches,Leaves,Stump and Trunk",264
+"25","Bark,Branches,Leaves,Stump,Trunk and Twigs",3
+"26","Bark,Branches,Stump and Trunk",37
+"27","Bark,Stump and Trunk",491
+"28","Bark+branches",8
+"29","Bark+branches+leaves",123
+"30","Bark+branches+roots",1
+"31","Below ground",17
+"32","below ground biomass",16
+"33","Below-ground",2
+"34","belowground",2
+"35","Biomass",15
+"36","biomass aerienne",5
+"37","Biomass of dead branches",0
+"38","Biomass of roots",5
+"39","Biomass of stem bark",0
+"40","Biomass of tree",2
+"41","bois",0
+"42","bois de feu",0
+"43","bois fort",1
+"44","bole",1
+"45","Bole dry weight",30
+"46","Bole fresh weight",18
+"47","Bole ovendry weight",119
+"48","bole tree D>40",1
+"49","bole volume",21
+"50","Bole Volume",3
+"51","Bole weight",12
+"52","branch",87
+"53","Branch",7
+"54","Branch and twig biomass",27
+"55","Branch biomass",60
+"56","Branch biomass without twigs",0
+"57","Branch dry biomass",5
+"58","Branch dry mass",2
+"59","Branch dry weight",2
+"60","Branch fresh biomass",1
+"61","branch mass in crown (excluded epicormics)",1
+"62","Branch volume",3
+"63","Branch weight",3
+"64","Branch-stem biomass",0
+"65","branches",30
+"66","Branches",773
+"67","Branches and Leaves",3
+"68","Branches and Trunk underbark",26
+"69","Branches biomass",6
+"70","Branches dead",175
+"71","Branches fresh weight",6
+"72","Branches live",153
+"73","Branches live < 2.5 cm",16
+"74","Branches live > 7.6 cm",13
+"75","Branches live 2.5-7.6 cm",10
+"76","Branches live 2.5-7.6 cm and Branches live > 7.6 cm",20
+"77","Branches ovendry weight",6
+"78","Branches total (live + dead)",314
+"79","Branches,Leaves and Roots",1
+"80","Branches,Leaves and Twigs",2
+"81","Branches,Leaves,Roots,Stump and Trunk",5
+"82","Branches,Leaves,Stump and Trunk",24
+"83","Branches,Leaves,Stump,Trunk and Twigs",2
+"84","Branches,Stump and Trunk",286
+"85","Branches+leaves",10
+"86","caulinaire",4
+"87","Clear bark volume",1
+"88","Clear bole volume",6
+"89","Clear bole volume (over bark)",6
+"90","Clear bole volume (under bark)",6
+"91","Coarse missing roots mass",1
+"92","coarse root",24
+"93","Coarse roots",1
+"94","Coarse stump roots",1
+"95","Coarse-root biomass",3
+"96","commercial",11
+"97","Commercial volume",2
+"98","Community biomass",0
+"99","Complete tree (above + belowground)",53
+"100","Complete tree (aboveground - excluded fruits)",76
+"101","Cones",5
+"102","crown",0
+"103","Crown (branches + foliage + twigs)",164
+"104","Crown dry weight",30
+"105","Crown fresh weight",19
+"106","Crown ovendry weight",7
+"107","Crown weight",12
+"108","cubage arbre",1
+"109","cubage pied",1
+"110","Culm",13
+"111","current branch",2
+"112","current leaf",2
+"113","Current-year needle biomass",1
+"114","dead branches",0
+"115","Dead crown (branches + foliage + twigs)",156
+"116","Dead wood",0
+"117","Dry mass",0
+"118","Dry standing biomass",1
+"119","Dry stem wood weight",1
+"120","dry wood mass",0
+"121","fine root",1
+"122","Fine roots",29
+"123","firewood",0
+"124","Flower and fruit biomass",5
+"125","folaire",4
+"126","foliage",27
+"127","Foliage",459
+"128","Foliage + twigs",29
+"129","Foliage dry weight",30
+"130","Foliage fresh weight",12
+"131","foliage mass in crown (exclused epicormics)",1
+"132","foliage mass of epicormics branches",1
+"133","Foliage new",35
+"134","Foliage old",22
+"135","Foliage total",466
+"136","Foliage weight",12
+"137","For canopy trees, assumed to be >4 m in height for this study.",2
+"138","For canopy trees, assumed to be >4 m in height for this study. Up to 2cm of DBH",1
+"139","Fresh bark weight",0
+"140","fresh biomass",7
+"141","Fresh bole weight",0
+"142","fresh branches",2
+"143","Fresh crown weight",0
+"144","Fresh foliage weight",0
+"145","Fresh mass",0
+"146","Fresh small branches weight",0
+"147","Fresh topwood and large branches",0
+"148","Fresh whole tree weight",0
+"149","Fresh wood weight",0
+"150","fruit",2
+"151","Fruit biomass",4
+"152","Fruits",9
+"153","fuel",0
+"154","Fuel wood",1
+"155","Fuelwood volume",5
+"156","Gross volume over bark",3
+"157","Gross volume under bark",3
+"158","harvestable including bark and branches",1
+"159","harvestable with bark, excluding the branches and the bark",1
+"160","heartwood volume",8
+"161","Heavy wood density biomass",1
+"162","large root",1
+"163","Large roots",16
+"164","Lartge branches fresh weight",1
+"165","Lartge branches ovendry weight",1
+"166","Lateral roots",23
+"167","leaf",21
+"168","Leaf",7
+"169","Leaf biomass",67
+"170","Leaf dry biomass",7
+"171","Leaf dry weight",0
+"172","Leaf dry weight of defoliated trees",0
+"173","Leaf dry weight of unaffected trees",0
+"174","Leaf fresh biomass",1
+"175","Leaf weight",6
+"176","Leave weight",0
+"177","leaves",30
+"178","Leaves",260
+"179","Leaves and Twigs",17
+"180","Leaves biomass",2
+"181","Leaves biomss",5
+"182","Leaves dry mass",2
+"183","Leaves fresh weight",7
+"184","Leaves ovendry weight",7
+"185","Leaves weight",0
+"186","lignotuber scrap",0
+"187","lignotuber total",0
+"188","lignotuber trunk",0
+"189","Lignotubers",0
+"190","live branches",4
+"191","Live crown (branches + foliage + twigs)",215
+"192","living branches",0
+"193","log10(leaves)",2
+"194","Mangroves",0
+"195","mass of epicormic branches",1
+"196","medium root",1
+"197","Medium Roots",8
+"198","Medium wood density biomass",1
+"199","merchandable",78
+"200","merchantable",1
+"201","Merchantable",24
+"202","Merchantable overbark",8
+"203","Merchantable stem",8
+"204","Merchantable tree volume",3
+"205","Merchantable underbark",9
+"206","merchantable volume",2
+"207","Merchantable volume",21
+"208","Merchantable volume (up to 15 cm top diameter)",2
+"209","Millable timber",0
+"210","needle",42
+"211","new branch",10
+"212","new foliage",1
+"213","old branch",11
+"214","one year's leaf",2
+"215","One-year-old needle biomass",1
+"216","Ovendry bark weight",0
+"217","Ovendry bole weight",0
+"218","Ovendry crown weight",0
+"219","Ovendry foliage weight",0
+"220","Ovendry small branches weight",0
+"221","Ovendry topwood and large branches",0
+"222","Ovendry whole tree weight",0
+"223","Ovendry wood weight",0
+"224","over bark",2
+"225","Over bark volume",3
+"226","Over bark Volume",1
+"227","Overbark volume",11
+"228","perennial branch",2
+"229","Plant weight",1
+"230","Prop root",4
+"231","Prop roots",1
+"232","Prop roots weight",1
+"233","Propagule biomass",0
+"234","Pulp timber tree volume",3
+"235","rameale",4
+"236","Rhizome",1
+"237","root",63
+"238","Root and stilt biomass",1
+"239","Root biomass",87
+"240","Root weight",6
+"241","Roots",122
+"242","Roots biomass",1
+"243","Roots total",33
+"244","Roots total excluded stump",22
+"245","Roots, coarse > 3 mm dia",7
+"246","Roots,Stump and Trunk",25
+"247","Round logs",1
+"248","Sapling above-ground biomass",1
+"249","Sapling bark",1
+"250","Sapling branches",1
+"251","Sapling buds",1
+"252","Sapling leaves",1
+"253","Sapling roots",1
+"254","Sapling stems without bark",1
+"255","sapwood volume",8
+"256","sawable stem volume - volume bois sciable",2
+"257","Sawntimber tree volume",3
+"258","shoot",0
+"259","shrub",0
+"260","Small branches",1
+"261","Small branches dry weight",30
+"262","Small branches fresh weight",13
+"263","Small branches ovendry weight",1
+"264","Small branches weight",12
+"265","small root",0
+"266","Small-root dry biomass",2
+"267","souche",5
+"268","stand",0
+"269","Stand",0
+"270","standing wood volume",1
+"271","Steam+leaves+thin branches",1
+"272","stem",128
+"273","Stem",386
+"274","Stem (bark only)",293
+"275","Stem (wood + bark)",2127
+"276","Stem (wood only)",1584
+"277","Stem + branches (bark only)",11
+"278","Stem + branches (live)",1373
+"279","Stem + branches (wood only)",1306
+"280","stem bark",4
+"281","Stem Bark",50
+"282","Stem bark biomass",1
+"283","Stem biomass",79
+"284","Stem dry biomass",7
+"285","Stem dry weight",2
+"286","Stem excluding stump biomass",3
+"287","Stem fresh biomass",1
+"288","Stem overbark volume",6
+"289","Stem top",12
+"290","Stem underbark",1
+"291","Stem underbark volume",6
+"292","Stem up to the first branch biomass",2
+"293","stem volume",1
+"294","Stem volume",411
+"295","Stem Volume",7
+"296","stem volume over bark without the branches - volmue tige bois fort sur ecorce",1
+"297","Stem weight",5
+"298","stem wood",4
+"299","Stem Wood",50
+"300","Stem wood biomass",4
+"301","Stem-Stem excluding stump biomass",1
+"302","Stem+bark",194
+"303","Stem+Bark",7
+"304","Stem+bark+branches",111
+"305","Stem+bark+branches+stump",18
+"306","Stem+bark+leaves+branches",266
+"307","Stem+bark+leaves+branches+stump",209
+"308","Stem+bark+stump",31
+"309","Stem+branch biomass",1
+"310","Stem+branches",12
+"311","Stem+branches+leaves",3
+"312","Stem+Branches+Leaves+Coarse roots roots+Tap root",2
+"313","Stem+leaves+branches+roots",1
+"314","Stem+stilt root biomass",1
+"315","stembark",0
+"316","stemwood",0
+"317","Stemwood volume",12
+"318","Stilt root biomass",1
+"319","stump",11
+"320","Stump",1
+"321","Stump + roots",35
+"322","Stump and Trunk",2431
+"323","Stump bark",7
+"324","Stump biomass",2
+"325","Stump wood",11
+"326","stump+root",0
+"327","Tapwood and large branches dry weight",18
+"328","Tapwood and large branches weight",12
+"329","tarif bois fort",1
+"330","tarif de biomass",3
+"331","tarif de biomass totale",0
+"332","tarif de biomasse",2
+"333","tarif de biomasse des tiges haute de 2m",0
+"334","tarif de cubage",83
+"335","tarif de cubage grume",0
+"336","tarif de cubage volume total",0
+"337","the mass of the stem within the crown",1
+"338","the mass of the stem within the crown + branch mass in crown (excluded epicormics)",1
+"339","tige",2
+"340","Timber volume",78
+"341","timber volume (at 12% water content)",0
+"342","Topwood and large branches dry weight",12
+"343","Topwood and large branches fresh weight",12
+"344","total",21
+"345","Total",16
+"346","Total above ground",65
+"347","Total above ground biomass",54
+"348","Total Above-ground",11
+"349","Total above-ground biomass",0
+"350","Total Abovegorund Biomass",16
+"351","total aboveground",8
+"352","total aboveground biomass",38
+"353","Total aboveground biomass",88
+"354","Total Aboveground Biomass",8
+"355","Total aboveground biomass without leaves",9
+"356","Total aboveground volume",1
+"357","Total aboveground woody biomass",10
+"358","Total aboveground woody biomass (without bark)",0
+"359","Total aboveground woody volume",1
+"360","total AGB",14
+"361","Total below ground",7
+"362","total biomass",88
+"363","Total biomass",43
+"364","total branch",10
+"365","Total branch biomass",4
+"366","total foliage",10
+"367","Total foliage biomass",10
+"368","Total leaf biomass",4
+"369","Total lost-root mass",0
+"370","Total ovendry weight",12
+"371","total overbark",0
+"372","Total overbark",32
+"373","Total root dry biomass",2
+"374","Total stem biomass",14
+"375","Total stem biomass (SW+SB)",6
+"376","Total tree biomass",57
+"377","total tree volume",1
+"378","total tree volume - net harvestable tree volume under bark",1
+"379","Total underbark",10
+"380","total volume",21
+"381","Total volume",3
+"382","tree",0
+"383","TREE",7
+"384","Tree above-ground biomass",1
+"385","Tree bark",1
+"386","Tree biomass",0
+"387","Tree branches",1
+"388","Tree buds",1
+"389","tree D>40",1
+"390","Tree dry biomass",1
+"391","Tree flowers",1
+"392","Tree fresh biomass",1
+"393","Tree leaves",1
+"394","Tree roots",1
+"395","Tree stemss without bark",1
+"396","Tree volume",22
+"397","Tree volume equation",17
+"398","Tree volume of sawntimber",2
+"399","treeDBH<40",1
+"400","trunk",6
+"401","Trunk",4
+"402","Trunk biomass",2
+"403","Trunk dry mass",4
+"404","Trunk weight",5
+"405","Trunk wood",0
+"406","Twig biomass",34
+"407","twigs",2
+"408","Twigs",113
+"409","Twigs and Leaves",3
+"410","Twigs biomass",0
+"411","Twigs old",3
+"412","Twigs total",47
+"413","Under bark volume",6
+"414","underbark",1
+"415","Underbark volume",28
+"416","Understorey species, assumed to be trees less than 4 m high for our study.",1
+"417","Understorey species, assumed to be trees less than 4 m high for our study. Up to 2cm of DBH",2
+"418","Unweighted underbark volume",19
+"419","Volume",672
+"420","volume bois fort",0
+"421","Volume dark red meranti group",4
+"422","volume de bois de feu",0
+"423","volume de l ensemble des billes utilisees",10
+"424","volume des branches",1
+"425","Volume dipterocarps",1
+"426","volume du fut",3
+"427","volume fort",1
+"428","volume fut sur ecorce",1
+"429","volume grume commercial",2
+"430","volume grume sous ecorce",2
+"431","Volume non meranti heavy hardwood dipterocarps",4
+"432","Volume non meranti light hardwood dipterocarps",4
+"433","Volume non meranti medium hardwood dipterocarps",4
+"434","Volume non-dipterocarps",1
+"435","Volume non-dipterocarps heavyhardwood",4
+"436","Volume non-dipterocarps light hardwood",4
+"437","Volume non-dipterocarps medium hardwood",4
+"438","Volume of the tree at top diameter limit",1
+"439","Volume red meranti group",4
+"440","Volume unclassified group",4
+"441","volume up to 7.5 cm overbark",1
+"442","volume up to 7.5 cm underbark",1
+"443","Volume white red meranti group",4
+"444","Volume yellow meranti group",4
+"445","volume- Equation applied on a stand basis",0
+"446","Weighted underbark volume",10
+"447","Whole tree",7
+"448","Whole tree (above stump)",1410
+"449","Whole tree (aboveground and belowground -excluded fruits)",3
+"450","Whole tree (aboveground and belowground -excluded leave, bark and fruits)",3
+"451","Whole tree (aboveground)",390
+"452","Whole tree biomass",1
+"453","Whole tree dry weight",30
+"454","Whole tree fresh weight",19
+"455","Whole tree ovendry weight",7
+"456","Whole tree weight",12
+"457","wood",9
+"458","Wood",6
+"459","Wood biomass",1
+"460","Wood dry weight",30
+"461","Wood fresh weight",19
+"462","Wood ovendry weight",7
+"463","Wood weight",12
+"464","Wood, bark, branches (live + dead; no twigs or foliage)",0
+"465","woody tissues",10
+"466","Woody weight",0
+"467","xylem volume",8

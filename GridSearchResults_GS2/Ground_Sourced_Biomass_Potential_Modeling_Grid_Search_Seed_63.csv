@@ -1,0 +1,2 @@
+,Mean_R2,StDev_R2,ModelName,numberOfTrees,variablesPerSplit,minLeafPopulation,bagFraction,maxNodes,type
+0,0.38993987701919025,0.025361006245774715,GridSeach_Model_12_18_80,200,12,18,0.632,80,Classifier.smileRandomForest

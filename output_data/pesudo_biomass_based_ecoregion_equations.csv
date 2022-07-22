@@ -1,0 +1,15 @@
+ID_WWF,WWF_Ecoregions,Eqaution,R2,P_value,equations_number
+6,Boreal forest taigas,log(biomass)=-2.33216+2.38473*log(DBH),0.9826,2.20E-16,10
+13,Deserts and xeric shrublands,log(biomass)=-1.96534+2.24775*log(DBH),0.9993,2.20E-16,2
+12,Mediterranean scrub,log(biomass)=-2.32711+2.41024*log(DBH),0.9572,2.20E-16,3
+10,Montane grasslands,log(biomass)=-1.53855+2.17117*log(DBH),0.9318,2.20E-16,26
+4,Temperate broadleaf and mixed forests,log(biomass)=-2.502176+2.521005*log(DBH),0.9788,2.20E-16,289
+5,Temperate coniferous forests,log(biomass)=-2.31020+2.45598*log(DBH),0.9871,2.20E-16,46
+8,"Temperate grasslands, savannas, and shrublands",log(biomass)=-1.93152+2.26586*log(DBH),0.9606,2.20E-16,41
+2,Tropical and subtropical dry broadleaf forests,log(biomass)=-3.1854+2.8650*log(DBH),0.9075,8.44E-12,7
+7,"Tropical and subtropical grasslands, savannas, and shrublands",log(biomass)=-2.23573+2.46361*log(DBH),0.9969,2.20E-16,10
+1,Tropical and subtropical moist broadleaf forests,log(biomass)=-2.286389+2.424197*log(DBH),0.9784,2.20E-16,146
+11,Tundra,log(biomass)=-2.40164+2.34941*log(DBH),0.9784,2.20E-16,3
+9,Flooded grasslands,log(biomass)=-10.5055+7.1*log(DBH),0.9487,2.20E-16,2
+14,Mangroves,,,,
+3,Tropical and Subtropical Coniferous Forests,,,,

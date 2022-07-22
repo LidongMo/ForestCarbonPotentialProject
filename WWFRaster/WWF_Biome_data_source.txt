@@ -1,0 +1,2 @@
+Please download this WWF from this link or through your own approach.
+var biomeLayer = ee.Image("users/leonidmoore/WWF_Biomes_30ArcSec")
