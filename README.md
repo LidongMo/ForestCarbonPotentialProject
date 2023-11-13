@@ -92,3 +92,5 @@ Starting from STEP 6, you can access the data through Google Earth Engine.
 ### STEP 19: Analysis of the Representativeness of the Data Based on Convex Hull Analysis
     STEP 15_1: Analysis for all covariates.
     STEP 15_2: Analysis for covariates related to human activities.
+
+### Please download the 'Data' and 'Plots' from Zenodo: https://doi.org/10.5281/zenodo.10118907 
