@@ -1,4 +1,3 @@
-# ForestCarbonPotentialProject
 ****************************************************************************************************
 This is the README text file for the forest carbon potential paper.
 The code is organized into steps, each accompanied by the corresponding code.
@@ -77,12 +76,16 @@ STEP 14: Creation of Maps for Carbon Concentration and Dead Wood/Litter
     STEP 14_3: Preparation of the Sanderman soil carbon potential map from Sanderman et al.
     STEP 14_4: Creation of the carbon concentration map, used for converting biomass into carbon stock.
 
-STEP 15: Analysis of the Representativeness of the Data Based on Convex Hull Analysis
-    STEP 15_1: Analysis for all covariates.
-    STEP 15_2: Analysis for covariates related to human activities.
+STEP 15: Spatial Autocorrelation Analysis
+    STEP 15_1/2: Moran's I test for each model.
+    STEP 15_3-12: Leave-one-out analysis.
 
 STEP 16: Statistical Analysis at Biome Level, Land Use Types, etc.
 
 STEP 17: Code for Creating Figures and Tables for All Main and Supplementary Figures
 
 STEP 18: Potential in Global Forest Plantations.
+
+STEP 19: Analysis of the Representativeness of the Data Based on Convex Hull Analysis
+    STEP 15_1: Analysis for all covariates.
+    STEP 15_2: Analysis for covariates related to human activities.
