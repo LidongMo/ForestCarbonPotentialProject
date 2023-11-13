@@ -94,3 +94,4 @@ Starting from STEP 6, you can access the data through Google Earth Engine.
     STEP 15_2: Analysis for covariates related to human activities.
 
 ### Please download the 'Data' and 'Plots' from Zenodo: https://doi.org/10.5281/zenodo.10118907 
+### Please download the 'Data/BiomassMergedMaps' from Zenodo: https://doi.org/10.5281/zenodo.10118245
