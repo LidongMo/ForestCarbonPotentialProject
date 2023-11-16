@@ -1,5 +1,5 @@
 # Forest carbon potential project
-## This is the code for the Mo et al., 2013 in Nature.
+## This is the code for the Mo et al., 2023 in Nature.
 
 ****************************************************************************************************
 This is the README text file for the forest carbon potential paper.
